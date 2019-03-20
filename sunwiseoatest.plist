@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://106.14.120.93:8080/ipa/SunwiseOATest.ipa</string>
+					<string>http://114.116.48.36:8088/ipa/SunwiseOATest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>轩宇OA下载</string>
+				<string>轩宇OA测试版</string>
 			</dict>
 		</dict>
 	</array>
